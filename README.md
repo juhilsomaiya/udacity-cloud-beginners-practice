@@ -1,4 +1,4 @@
-# udacity-cloud-sg-india-practice
+-- Udacity Bertelsmann Cloud Scholarship Track -- 
 
 Hello Everyone to the Bertelsmann-challenge Cloud-track.!
 
