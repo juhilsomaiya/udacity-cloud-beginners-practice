@@ -14,3 +14,6 @@ This is a simple github practice assignment that you guys can do in follosing wa
 - Delete the commits
 - Change the commit messages 
 - and so on..
+
+Here's the sample screenshot of my page
+![Image description](https://github.com/juhilsomaiya/udacity-cloud-sg-india-practice/blob/master/ss.png)
